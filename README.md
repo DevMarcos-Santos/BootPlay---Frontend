@@ -1,8 +1,5 @@
 
 
-> [!IMPORTANT]
-> É necessário que a imagem Docker utilizada seja a disponibilizada pelo [Andryev].
-
 ![Peek recording itself](./src/assets/apresentation.gif)
 
 
